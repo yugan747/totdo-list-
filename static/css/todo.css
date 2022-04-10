@@ -1,0 +1,23 @@
+.todoform{
+    position:relative;
+    top:50%;
+    left:20%;
+  
+}
+.form-control{
+    display:block;
+   
+}
+label{
+    color:white;
+}
+input[type=submit]{
+    padding:20px;
+    border-radius:10px;
+    background-color:green;
+    color:white;
+}
+input[type=submit]:hover{
+     background-color:blue;
+    
+}
